@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f8f8f8;
+	justify-content:space-evenly;
+	align-items:center;
+	display:flex;
+	flex-direction:column;
+}
+.book-library{
+	background-color:#ffffff;
+}
+.book p{
+	color:#777777;
+}
+.book div{
+	background-color:#2ecc71;
+	color:white;
+	text-align:center;
+}
+.book{
+	margin:2rem;
+}
